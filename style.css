@@ -39,4 +39,5 @@ input{
     width:110px;
     height:25px;
     font-family:cursive,fantasy,sans-serif;
+    corner:round;
 }
