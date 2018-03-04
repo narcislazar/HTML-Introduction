@@ -32,10 +32,11 @@ img{
    padding-left: 20px; 
 }
 input{
-    color:white;
+    color:black;
     background-color:grey;
     margin-left:20px;
     cursor:pointer;
-    width:100px;
+    width:110px;
     height:25px;
+    font-family:cursive,fantasy,sans-serif;
 }
