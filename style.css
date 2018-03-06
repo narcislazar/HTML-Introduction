@@ -33,11 +33,12 @@ img{
    padding-left: 20px; 
 }
 input{
-    color:black;
-    background-color:grey;
+    color:#00001a;
+    background-color:#006666;
     margin-left:20px;
     cursor:pointer;
-    width:110px;
+    width:107px;
     height:25px;
-    font-family:cursive,fantasy,sans-serif;
+    cursor:pointer;
+    border:1px groove blue;
 }
